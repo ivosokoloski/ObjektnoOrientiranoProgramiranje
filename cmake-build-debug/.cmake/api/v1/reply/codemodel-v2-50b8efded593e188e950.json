@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ObjektnoOrientiranoProgramiranje",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise1-Debug-0b47809d60f6ef98e0ee.json",
+					"name" : "Exercise1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise2-Debug-d6736f3a7a37932b68bf.json",
+					"name" : "Exercise2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise3-Debug-90cbe30128f91cc7009e.json",
+					"name" : "Exercise3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise4-Debug-d44395be86add4fa77e9.json",
+					"name" : "Exercise4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise5-Debug-d251e6bcb5ff649b65b4.json",
+					"name" : "Exercise5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise6-Debug-c35d9c7a4c5994003c19.json",
+					"name" : "Exercise6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise7-Debug-b0413f759621e4ec06c5.json",
+					"name" : "Exercise7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercise8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercise8-Debug-09c6ce382764c64a593f.json",
+					"name" : "Exercise8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug",
+		"source" : "C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

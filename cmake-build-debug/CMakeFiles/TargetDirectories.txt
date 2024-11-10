@@ -1,0 +1,10 @@
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise1.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise2.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise3.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise4.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise5.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise6.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise7.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/Exercise8.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/ObjektnoOrientiranoProgramiranje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
